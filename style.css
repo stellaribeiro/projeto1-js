@@ -1,0 +1,20 @@
+body{
+    background-color: #be856e;
+    padding: 20px;
+    text-align: center;
+    margin: 150px; /* espaço fora da borda */
+    padding: 150px;
+    text-align: center;
+    border: 8px solid;
+    border-color: antiquewhite;
+    border-radius: 50%;
+}
+button {
+    background-color: #e0c3a2;
+    border-radius: 25px;
+
+}
+input{
+    background-color: #e0c3a2;
+    border-radius: 25px;
+}
